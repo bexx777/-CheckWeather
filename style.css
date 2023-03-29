@@ -1,0 +1,29 @@
+.weather{
+    margin: 50px;
+}
+.weather_el {
+    
+    width: 290px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    flex-wrap: wrap;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center
+    
+} 
+
+.mainlyCloudy {
+    margin-left: 40px;
+    border-radius: 20px;    
+    width: 250px;
+    height: 300px;
+    justify-content: flex-start;
+    z-index: -1;
+    position: absolute;
+}
+.weatherBox{
+   
+}
